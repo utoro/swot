@@ -50,7 +50,6 @@ edu.dz
 edu.ee
 edu.er
 edu.et
-edu.ge
 edu.gh
 edu.gt
 edu.hn
@@ -81,7 +80,6 @@ edu.pe
 edu.ph
 edu.pk
 edu.pr
-edu.ps
 edu.pt
 edu.pw
 edu.py
